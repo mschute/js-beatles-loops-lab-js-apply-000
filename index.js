@@ -20,7 +20,7 @@ function iLoveTheBeatles(number){
   var loveArray = [];
   var statement = `I love the Beatles!`
   let i = 0
-  do {loveArray.push(`${statement[i]}`); i++;}
+  do {loveArray.push(`${statement}[i]`); i++;}
     while (i < number.length)
   return loveArray
 }
