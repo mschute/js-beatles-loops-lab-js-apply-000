@@ -16,4 +16,10 @@ function johnLennonFacts(facts){
   return factsArray
 }
 
-function 
+function iLoveTheBeatles(number){
+  var loveArray = [];
+  do ()
+  while 
+  loveArray.push()
+  return loveArray
+}
