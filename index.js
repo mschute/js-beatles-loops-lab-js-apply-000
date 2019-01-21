@@ -18,7 +18,7 @@ function johnLennonFacts(facts){
 
 function iLoveTheBeatles(number){
   var loveArray = [];
-  var numericalNumber = parseInt(number, 10);
+  var numericalNumber = Number(number);
   let i = 0;
   do {loveArray.push(`I love the Beatles!`); i++;}
     while (i < numericalNumber.length)
