@@ -21,6 +21,6 @@ function iLoveTheBeatles(number){
   var numericalNumber = parseInt(number);
   let i = 0;
   do {loveArray.push(`I love the Beatles!`); i++;}
-    while (i < numericalNumber - 15)
+    while (i <= numericalNumber)
   return loveArray
 }
