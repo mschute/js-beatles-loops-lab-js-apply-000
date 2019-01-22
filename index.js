@@ -20,7 +20,7 @@ function iLoveTheBeatles(number){
   var loveArray = [];
   var numericalNumber = parseInt(number);
   let i = 0;
-  do {loveArray.push('I love the Beatles!'; i++)}
+  do {loveArray.push(`I love the Beatles!`); }
     while (i < 16)
   return loveArray
 }
